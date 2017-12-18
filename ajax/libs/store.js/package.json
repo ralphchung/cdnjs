@@ -16,11 +16,9 @@
     "target": "git://github.com/marcuswestin/store.js.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
-          "store.js",
-          "store.min.js",
-          "store+json2.min.js"
+          "**/*"
         ]
       }
     ]
